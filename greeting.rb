@@ -1,5 +1,8 @@
+def change_my_name
+  name = "Frank"
+  puts name.reverse
+  return name
+end
 
 
-answer = "flamboyance"
-puts "A group of flamingos is called a #{answer}"
 
