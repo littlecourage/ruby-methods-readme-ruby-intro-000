@@ -3,6 +3,3 @@ def change_my_name
   puts name.reverse
   return name
 end
-
-
-
