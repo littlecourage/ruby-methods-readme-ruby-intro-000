@@ -1,6 +1,3 @@
-def greeting
-  puts "Hello World"
-end
+num_of_attendees = 547
 
-greeting
-
+puts "There are #{num_of_attendees} people coming to the party."
