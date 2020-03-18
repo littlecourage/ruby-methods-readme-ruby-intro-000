@@ -1,7 +1,5 @@
-def change_my_name
-  name = "Frank"
-  puts name.reverse
-  return name
+def print_one_plus_one
+  puts 1+1
 end
 
-name
+print_one_plus_one
